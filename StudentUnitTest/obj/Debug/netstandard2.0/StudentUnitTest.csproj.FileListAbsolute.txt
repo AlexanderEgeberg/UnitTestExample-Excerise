@@ -1,0 +1,9 @@
+C:\Users\alexa\source\repos\StudentUnitTest\bin\Debug\netstandard2.0\StudentUnitTest.deps.json
+C:\Users\alexa\source\repos\StudentUnitTest\bin\Debug\netstandard2.0\StudentUnitTest.dll
+C:\Users\alexa\source\repos\StudentUnitTest\bin\Debug\netstandard2.0\StudentUnitTest.pdb
+C:\Users\alexa\source\repos\StudentUnitTest\obj\Debug\netstandard2.0\StudentUnitTest.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\StudentUnitTest\obj\Debug\netstandard2.0\StudentUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\StudentUnitTest\obj\Debug\netstandard2.0\StudentUnitTest.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\StudentUnitTest\obj\Debug\netstandard2.0\StudentUnitTest.AssemblyInfo.cs
+C:\Users\alexa\source\repos\StudentUnitTest\obj\Debug\netstandard2.0\StudentUnitTest.dll
+C:\Users\alexa\source\repos\StudentUnitTest\obj\Debug\netstandard2.0\StudentUnitTest.pdb
